@@ -144,3 +144,26 @@ footer {
     margin-top: 5%;
     width: 500%;
 }
+
+.contactContainer {
+    width: 90%;
+    padding-top: 2%;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+.form-control {
+    padding: 2px 5px;
+    height: 30px;
+}
+
+#btnSubmit {
+    width: 150px;
+    background: #4aaaa5;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2em;
+}
